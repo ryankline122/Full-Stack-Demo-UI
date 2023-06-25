@@ -1,14 +1,6 @@
-# full-stack-vue-demo
+# Full-Stack CRUD Demo Project
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+This Project serves as the front-end for my RESTful API Demo in Spring Boot (https://github.com/ryankline122/RestAPI-demo). Users can Create, Read, Update, and Delete entries in a database of "People" objects.
 
 ## Project Setup
 
@@ -27,3 +19,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Additional Notes
+
+Make sure the API is running and is connected to the Postgres DB. See the API repo for specific instructions
